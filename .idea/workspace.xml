@@ -1,14 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eab999d-c146-4528-b952-b6242aa2825a" name="Changes" comment="" />
+    <list default="true" id="1eab999d-c146-4528-b952-b6242aa2825a" name="Changes" comment="Subindo Arquivos">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/funcionario/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/funcionario/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sistema/Sistema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sistema/Sistema.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/funcionario/funcionarioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/funcionario/funcionarioTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/sistema/sistemaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/sistema/sistemaTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="29lKA5kRV5j6OwJi5TcPE3fVZM9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,9 +40,107 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="funcionario" />
+      <recent name="sistema" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.funcionarioTest">
+    <configuration name="funcionarioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="controleEstoque" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="funcionario.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="funcionario" />
+      <option name="MAIN_CLASS_NAME" value="funcionario.funcionarioTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="funcionarioTest.RegistroProdutoInvalido" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="controleEstoque" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="funcionario.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="funcionario" />
+      <option name="MAIN_CLASS_NAME" value="funcionario.funcionarioTest" />
+      <option name="METHOD_NAME" value="RegistroProdutoInvalido" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="funcionarioTest.RegistroProdutovalido" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="controleEstoque" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="funcionario.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="funcionario" />
+      <option name="MAIN_CLASS_NAME" value="funcionario.funcionarioTest" />
+      <option name="METHOD_NAME" value="RegistroProdutovalido" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="funcionarioTest.baixaNaVenda" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="controleEstoque" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="funcionario.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="funcionario" />
+      <option name="MAIN_CLASS_NAME" value="funcionario.funcionarioTest" />
+      <option name="METHOD_NAME" value="baixaNaVenda" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="funcionarioTest.verificacaoQtdProdutoSistema" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="controleEstoque" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="funcionario.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="funcionario" />
+      <option name="MAIN_CLASS_NAME" value="funcionario.funcionarioTest" />
+      <option name="METHOD_NAME" value="verificacaoQtdProdutoSistema" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.funcionarioTest" />
+        <item itemvalue="JUnit.funcionarioTest.verificacaoQtdProdutoSistema" />
+        <item itemvalue="JUnit.funcionarioTest.baixaNaVenda" />
+        <item itemvalue="JUnit.funcionarioTest.RegistroProdutovalido" />
+        <item itemvalue="JUnit.funcionarioTest.RegistroProdutoInvalido" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -43,5 +162,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Subindo Arquivos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Subindo Arquivos" />
   </component>
 </project>
